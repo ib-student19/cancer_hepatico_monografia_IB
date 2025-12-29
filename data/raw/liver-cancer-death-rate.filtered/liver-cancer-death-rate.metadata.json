@@ -1,0 +1,42 @@
+{
+  "chart": {
+    "title": "Liver cancer death rate",
+    "subtitle": "Reported deaths from liver [cancer](#dod:cancer) per 100,000 people, based on the [underlying cause](#dod:underlying-cause-of-death) listed on death certificates.",
+    "note": "To allow for comparisons between countries and over time, this metric is [age-standardized](#dod:age_standardized). All deaths in a country may not have been registered with a [cause of death](#dod:underlying-cause-of-death).",
+    "citation": "WHO Mortality Database (2025)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/liver-cancer-death-rate?tab=line&time=2002..2019&country=ARG~CAN~EGY~ESP~THA&overlay=download-data&v=1&csvType=filtered&useColumnShortNames=false",
+    "selection": [
+      "United States",
+      "Mongolia",
+      "Chile",
+      "Thailand"
+    ]
+  },
+  "columns": {
+    "Age-standardized deaths from liver cancer in both sexes in those aged all ages per 100,000 people": {
+      "titleShort": "Age-standardized deaths from liver cancer in both sexes in those aged all ages per 100,000 people",
+      "titleLong": "Age-standardized deaths from liver cancer in both sexes in those aged all ages per 100,000 people",
+      "descriptionShort": "Reported deaths from liver cancer in both sexes in those aged all ages per 100,000 people.",
+      "descriptionKey": [
+        "The International Classification of Diseases (Version 10) codes that define liver cancer are C22."
+      ],
+      "unit": "deaths per 100,000 people",
+      "timespan": "1979-2023",
+      "type": "Numeric",
+      "owidVariableId": 1094054,
+      "shortName": "age_standardized_death_rate_per_100_000_standard_population__sex_both_sexes__age_group_all_ages__cause_liver_cancer__icd10_codes_c22",
+      "lastUpdated": "2025-08-05",
+      "nextUpdate": "2026-08-05",
+      "citationShort": "WHO Mortality Database (2025) – with minor processing by Our World in Data",
+      "citationLong": "WHO Mortality Database (2025) – with minor processing by Our World in Data. “Age-standardized deaths from liver cancer in both sexes in those aged all ages per 100,000 people” [dataset]. WHO Mortality Database, “WHO Mortality Database” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1094054.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-12-28",
+  "activeFilters": {
+    "country": "ARG~CAN~EGY~ESP~THA",
+    "tab": "line",
+    "overlay": "download-data",
+    "time": "2002..2019"
+  }
+}
