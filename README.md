@@ -12,7 +12,6 @@ El análisis se realizó utilizando datos de **cinco países** que representan d
 - España  
 - Tailandia
   
----
 
 ## Fuentes de datos
 
@@ -29,7 +28,6 @@ El proyecto utiliza datos obtenidos de Our World in Data, una plataforma académ
 
 Todos los datasets cubren el mismo período temporal (18 años) y fueron limpiados y estandarizados antes del análisis.
 
----
 
 ## Descripción de los scripts
 
@@ -45,14 +43,12 @@ Todos los datasets cubren el mismo período temporal (18 años) y fueron limpiad
 - **04_correlations_and_heatmap.R**  
   Calcula las correlaciones de Pearson y genera las visualizaciones finales (scatterplots y heatmap).
 
----
 
 ## Información del Software utilizado
 
 - **R**
 - Librerías: `dplyr`, `ggplot2`, `tidyverse`, `readxl`, `patchwork`
 
----
 
 ## Links interesantes
 
