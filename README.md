@@ -52,6 +52,11 @@ Todos los datasets cubren el mismo período temporal (18 años) y fueron limpiad
 
 ## Links interesantes
 
+- https://ourworldindata.org/grapher/liver-cancer-death-rate?tab=line&time=2002..2019&country=ARG~CAN~EGY~ESP~THA#sources-and-processing
+
+- https://ourworldindata.org/grapher/total-alcohol-consumption-per-capita-litres-of-pure-alcohol?tab=chart&country=ARG~CAN~THA~ESP~EGY
+
+- https://ourworldindata.org/grapher/hepatitis-b-incidence-sdgs?tab=line&time=2002..2019&country=ESP~ARG~EGY~CAN~THA
 
 ## Autora
 
