@@ -31,17 +31,17 @@ Todos los datasets cubren el mismo período temporal (18 años) y fueron limpiad
 
 ## Descripción de los scripts
 
-- **01_data_cleaning.R**  
+- **01_limpieza_datos.R**  
   Importa los datos originales, limpia y estandariza las variables y guarda los datasets limpios.
 
-- **02_exploratory_plots.R**  
+- **02_análisis_exploratorio.R**  
   Genera gráficos descriptivos para analizar tendencias temporales y diferencias entre países.
 
-- **03_merge_and_transformation.R**  
+- **03_unificar_y_transformar.R**  
   Une los datasets en uno solo y aplica la transformación logarítmica a las variables.
 
-- **04_correlations_and_heatmap.R**  
-  Calcula las correlaciones de Pearson y genera las visualizaciones finales (scatterplots y heatmap).
+- **04_correlaciones_heatmap.R**  
+  Calcula las correlaciones de Pearson y genera las visualizaciones finales (gráficos de correlación y heatmap).
 
 
 ## Información del Software utilizado
