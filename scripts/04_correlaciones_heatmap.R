@@ -1,5 +1,4 @@
 ############################################################
-# Sofía De Luca
 # Proyecto IB - Análisis cáncer de hígado
 # Descripción: Correlaciones y heatmap final
 ############################################################
